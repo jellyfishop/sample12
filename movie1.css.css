@@ -1,0 +1,40 @@
+
+h1{
+    text-align: center;
+    color: white;
+
+}
+div{
+    width: 326px;
+    height: 723px;
+    background-color: rgb(3, 3, 3);
+    border: rgb(249, 246, 246) 2px groove;
+    float: left;
+    margin-left: 100px;
+    margin-top: 70px;
+}
+h2{
+    text-align: center;
+    color: green;
+
+}
+body{
+    background-image: url("./css_images/bgi2.jpg");
+}
+img{
+    width: 247px;
+    height: 309px;
+    margin-left: 39px;
+    margin-top: 50px;
+}
+p,h3{
+    color: white;
+}
+.b1,.b2,.b3,.b4{
+    width: 146px;
+    height: 55px;
+    background-color: orange;
+    color: black;
+    text-align: center;
+    margin-left: 100px;
+}
